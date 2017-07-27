@@ -1,0 +1,418 @@
+@media (max-width: 1600px) {
+	.hero-text-box {
+		padding-top: 110px;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 600px;
+	}
+}
+
+@media (max-width: 1440px) {
+	h1 {
+		font-size: 640%;
+	}
+
+	#menuToggle {
+		z-index: 1;
+	}
+
+	.main-nav {
+		display: none;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 520px;
+	}
+
+	.copyright .row {
+		padding: 0 15px;
+	}
+
+	.col {
+		padding: 0 65px;
+	}
+
+	.dubai {
+		margin: 0 150px 0 -65px!important;
+	}
+
+	.beirut {
+		margin-right: 30px;
+	}
+}
+
+@media (max-width: 1280px) {
+	.row {
+		max-width: 1000px;
+	}		
+
+	#menuToggle {
+		left: 1050px;
+	}
+
+	#menu {
+		margin: -100px 0 0 -100px;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 440px;
+	}
+
+	.button-more {
+	    margin: 130px 190px;
+	}
+
+	.col {
+		padding: 0 35px;
+	}
+
+	.dubai {
+	    margin: 0 100px 0 -35px!important;
+	}
+
+	.beirut {
+		margin-right: 50px;
+	}
+}
+
+@media (max-width: 1200px) {
+	h1 {
+		font-size: 550%;
+	}
+
+	#menu {
+		margin: -100px 0 0 -120px;
+	}
+
+	.hero-text-box h2 {
+	    padding: 20px 400px;
+	}
+
+	.col {
+		padding: 0 25px;
+	}
+}
+
+@media (max-width: 1024px) {
+	.row {
+		max-width: 970px;
+	}
+
+	#menuToggle {
+		left: 850px;
+	}
+
+	#menu {
+		margin: -100px 0 0 -50px;
+	}
+
+	h1 {
+		font-size: 500%;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 300px;
+	}
+
+	.button-more {
+		margin: 130px 180px;
+	}
+
+	footer p {
+		font-size: 90%;
+	}
+
+	.dubai {
+		margin: 0 80px 0 -25px!important;
+	}
+}
+
+@media (max-width: 906px) {
+	.row {
+		max-width: 750px;
+	}
+
+	#menuToggle {
+		left: 700px;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 250px;
+	}
+
+	.jobs h2 {
+		padding: 0 190px;
+	}
+
+	.job-position {
+		margin: 160px 0;
+	}
+
+	.button-more {
+		margin: 100px 270px;
+	}
+
+	.dubai {
+		margin: 0 40px 0 -5px!important;
+	}
+
+	.col {
+		padding: 0 5px;
+	}
+
+	.copyright p {
+		font-size: 70%;
+	}
+}
+
+@media (max-width: 768px) {
+	.row {
+		max-width: 750px;
+	}
+
+	#menu {
+		margin: -100px 0 0 -120px;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 180px;
+	}
+
+	footer p {
+		font-size: 80%;
+	}
+
+	.dubai {
+		margin: 0 20px 0 -5px!important;
+	}
+
+	.beirut {
+		margin-right: 20px;
+	}
+
+	.margin_r {
+		margin-right: 10px;
+	}
+
+	.copyright .left {
+		margin: 0 90px;
+	}
+
+	.copyright .right {
+		margin: 0 60px;
+	}
+}
+
+@media (max-width: 736px) {
+	.row {
+		max-width: 600px;
+	}
+
+	#menuToggle {
+    	left: 580px;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 150px;
+	}
+
+	.jobs h2 {
+		padding: 0 150px;
+	}
+
+	.button-more {
+		margin: 100px 240px;
+	}
+
+	.services .row {
+		max-width: 600px;
+	}
+
+	.services p {
+		margin-bottom: 50px;
+	}
+
+	.jobs h2 {
+		padding: 0 100px;
+	}
+
+	.button-more {
+		margin: 100px 190px;
+	}
+
+	.copyright .right {
+		margin-right: 110px;
+	}
+
+	.copyright .right p {
+		margin: 0;
+	}
+
+	footer p {
+		font-size: 100%;
+	}
+
+	footer .span-1-of-3 p {
+		margin-bottom: 20px;
+	} 
+
+}
+
+@media (max-width: 480px) {
+	.hero-text-box {
+		padding-top: 20px;
+	}
+
+	#menuToggle {
+    	left: 410px;
+	}
+
+	#menu {
+		margin: -100px 0 0 -410px;
+		width: 100%;
+	}
+
+	#menu li {
+		text-align: center;
+	}
+
+	.hero-text-box h2 {
+		padding: 20px 40px;
+	}
+
+	.job-position {
+		margin: 16px 30px;
+	}
+
+	.jobs h2 {
+		padding-bottom: 50px;
+	}
+
+	.tag-button .button {
+		border: none;
+		margin-right: 0;
+	}
+
+	.button {
+		padding: 0 10px 0 0;
+	}
+
+	.job-position a {
+		display: none;
+	}
+
+	.button-more {
+		margin: 50px 100px;
+	}
+
+	.about h2 {
+		margin: 25px 50px;
+	}
+
+	.social {
+		margin: 0 208px;
+	}
+
+	.social h4 {
+		margin-bottom: 20px;
+	}
+
+	.location {
+		margin-top: 20px;
+	}
+
+	.copyright .left {
+		margin:  0 40px; 
+	}
+
+	.copyright .right {
+		margin: -10px;
+	}
+
+}
+
+@media (max-width: 425px) {
+
+	#menu {
+		margin: -100px 0 0 -370px;
+	}
+
+	#menuToggle {
+		left: 370px;
+	}
+
+	.button-more {
+		margin: 50px 70px;
+	}
+
+	.social {
+		margin: 0;
+	}
+
+	.social .row {
+		width: 64px;
+	}
+
+	footer {
+		padding: 80px 80px 0 80px;
+	}
+
+	.copyright .right {
+		margin: 10px;
+	}
+}
+
+@media (max-width: 375px) {
+	.row {
+		max-width: 300px;
+	}
+
+	#menuToggle {
+		left: 280px;
+	}
+
+	#menu {
+		width: 400px;
+		margin: -100px 0 0 -320px;
+	}
+
+	.jobs h2 {
+		padding: 0 20px 50px 20px;
+	}
+
+	.button-more {
+		margin: 50px 10px;
+	}
+
+	.copyright .right {
+		margin: -10px;
+	}
+}
+
+@media (max-width: 320px) {
+
+	#menuToggle {
+		left: 260px;
+	}
+
+	#menu {
+		margin: -100px 0 0 -300px;
+	}
+
+	h1 {
+		font-size: 400%;
+	}
+
+	.job-position {
+		margin: 10px;
+	}
+
+	.button-more {
+		margin: 50px 30px;
+	}
+
+	footer {
+		padding: 50px 50px 0 50px;
+	}
+} 
